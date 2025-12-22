@@ -1,0 +1,3 @@
+# image_size: 512 512
+# format: class score x1_norm y1_norm x2_norm y2_norm
+aircraft 0.9997 0.000013 0.852140 0.152297 0.996984

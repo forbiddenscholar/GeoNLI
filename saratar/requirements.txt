@@ -1,0 +1,23 @@
+#torch==1.8.2+cu111
+#torchvision==0.9.2+cu111
+#torchaudio==0.8.2
+
+## use this : pip3 install torch==1.8.2 torchvision==0.9.2 torchaudio==0.8.2 --extra-index-url https://download.pytorch.org/whl/lts/1.8/cu111
+
+mmcv-full==1.6.0
+mmdet==2.24.1
+pycocotools==2.0.7
+
+opencv-python==4.9.0.80
+numpy==1.23.5
+PyYAML==6.0.1
+matplotlib==3.8.2
+
+timm==0.5.4
+einops==0.8.0
+
+transformers==4.19.0
+tokenizers==0.12.1
+tqdm==4.66.5
+
+

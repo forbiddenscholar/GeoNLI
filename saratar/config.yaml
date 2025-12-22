@@ -1,0 +1,10 @@
+detector:
+  config: "/home/b23cs1037/rust2/final_submission copy/saratar/saratar_export/configs/hivit_base_SARDet.py"
+  checkpoint: "/home/b23cs1037/rust2/final_submission copy/saratar/saratar_export/checkpoints/epoch_36.pth"
+  threshold: 0.3
+
+llm:
+  model: "./models/flan-t5-large"  # Or local path after download
+
+paths:
+  output_dir: "./outputs"
